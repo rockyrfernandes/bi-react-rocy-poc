@@ -1,0 +1,13 @@
+<publishData>
+    <publishProfile profileName="bi-react-rocy-poc - Web Deploy" publishMethod="MSDeploy" publishUrl="bi-react-rocy-poc.scm.azurewebsites.net:443" msdeploySite="bi-react-rocy-poc" userName="$bi-react-rocy-poc" userPWD="es2MkndPZRCaQ64dQC6q7Nf9u1xshWy6ecPcyPyYlXtXiZeKpmY4l01bbGDu" destinationAppUrl="http://bi-react-rocy-poc.azurewebsites.net" SQLServerDBConnectionString="" mySQLDBConnectionString="" hostingProviderForumLink="" controlPanelLink="http://windows.azure.com" webSystem="WebSites">
+        <databases />
+    </publishProfile>
+    <publishProfile profileName="bi-react-rocy-poc - FTP" publishMethod="FTP" 
+        publishUrl="ftp://waws-prod-dm1-045.ftp.azurewebsites.windows.net/site/wwwroot" 
+        ftpPassiveMode="True" 
+        userName="bi-react-rocy-poc\$bi-react-rocy-poc" 
+        userPWD="es2MkndPZRCaQ64dQC6q7Nf9u1xshWy6ecPcyPyYlXtXiZeKpmY4l01bbGDu" 
+        destinationAppUrl="http://bi-react-rocy-poc.azurewebsites.net" SQLServerDBConnectionString="" mySQLDBConnectionString="" hostingProviderForumLink="" controlPanelLink="http://windows.azure.com" webSystem="WebSites">
+        <databases />
+    </publishProfile>
+</publishData>
